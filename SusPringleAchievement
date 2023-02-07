@@ -1,0 +1,2 @@
+--This is so dumb i swear
+--[[ NOTE: Keep in mind that these are "fake" achievements and will NOT give you an in-game badge. ]]-- local Achievements = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors/Custom%20Achievements/Source.lua"))() -- Creates and displays your custom achievement Achievements.Get({ Title = "Sus Pringle", Desc = "SUSGLE.", Reason = "sus pringle thats 2D.", Image = "https://cdn.discordapp.com/attachments/1071772156406530048/1072589037656870962/Untitled22_20230207184457.png", })
